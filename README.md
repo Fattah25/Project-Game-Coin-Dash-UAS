@@ -34,5 +34,7 @@
 
 ## VIDEO TUTORIAL APLIKASI
 
+![Video Hasil](/Image/membuka-game.gif)
+
 
 
