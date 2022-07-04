@@ -20,6 +20,27 @@
 **Prodi :** Teknik Informatika<br>
 **Kelas Asal :** Teknik Informatika C<br>
 **Angkata :** 2020
+
+**Nama :** Denina Milasanti<br>
+**NIM :** 32602000<br>
+**Fakultas :** Teknologi Industri<br>
+**Prodi :** Teknik Informatika<br>
+**Kelas Asal :** Teknik Informatika C<br>
+**Angkata :** 2020
+
+**Nama :** Ani Lutfiya<br>
+**NIM :** 32602000<br>
+**Fakultas :** Teknologi Industri<br>
+**Prodi :** Teknik Informatika<br>
+**Kelas Asal :** Teknik Informatika C<br>
+**Angkata :** 2020
+
+**Nama :** Arjuna Kharisma<br>
+**NIM :** 32602000<br>
+**Fakultas :** Teknologi Industri<br>
+**Prodi :** Teknik Informatika<br>
+**Kelas Asal :** Teknik Informatika C<br>
+**Angkata :** 2020
  
  <br>
  
@@ -34,7 +55,11 @@
 
 ## VIDEO TUTORIAL APLIKASI
 
+Berikut adalah *video* untuk menjalankan dan memainkan game *Coin Dash*.
+
 ![Video Hasil](/Image/membuka-game.gif)
+
+Pada *video* di atas ditampilkan game dengan konsep *survive* di mana *payer* harus bertahan terhadap **waktu** dan rintangan berupa **kaktus**. Koin hijau merupakan *PowerUp scene* yang berfungsi untuk menambahkan jumlah waktu ketika menyentuhnya.
 
 
 
