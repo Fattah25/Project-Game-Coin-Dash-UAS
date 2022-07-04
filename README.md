@@ -5,8 +5,7 @@
 
 **Table of Content :**
 
-- [Group Profiles](#profil "panggil aja ilman")
-- [Github Profile](Github.com/Fattah25)
+- [Group Profiles](#profil)
 - [Proyek Aplikasi](#proyek-aplikasi "𝘊𝘰𝘪𝘯-𝘋𝘢𝘴𝘩.𝘦𝘹𝘦")
 - [Video Tutorial Aplikasi](#video-tutorial-aplikasi "🆅🅸🅳🅴🅾")
 
@@ -59,7 +58,7 @@ Berikut adalah *video* untuk menjalankan dan memainkan game *Coin Dash*.
 
 ![Video Hasil](/Image/membuka-game.gif)
 
-Pada *video* di atas ditampilkan game dengan konsep *survive* di mana *payer* harus bertahan terhadap **waktu** dan rintangan berupa **kaktus**. Koin hijau merupakan *PowerUp scene* yang berfungsi untuk menambahkan jumlah waktu ketika menyentuhnya.
+Pada *video* di atas ditampilkan game dengan konsep *survive* di mana *player* harus bertahan terhadap **waktu** dan rintangan berupa **kaktus**. Koin hijau merupakan *PowerUp scene* yang berfungsi untuk menambahkan jumlah waktu ketika menyentuhnya.
 
 
 
