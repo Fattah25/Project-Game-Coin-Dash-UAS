@@ -3,12 +3,12 @@
 <h1 align="center">TUGAS BESAR PENGEMBANGAN APLIKASI PERMAINAN. PROYEK APLIKASI PERMAINAN <i>COIN DASH</i></h1>
 <br>
 
-**Daftar Isi:**
+**Table of Content :**
 
 - [Group Profiles](#profil "panggil aja ilman")
 - [Github Profile](Github.com/Fattah25)
-- [Proyek Aplikasi](#proyek-aplikasi "aplikasi sederhana")
-- [Proyek Aplikasi](#proyek-aplikasi "aplikasi sederhana")
+- [Proyek Aplikasi](#proyek-aplikasi "𝘊𝘰𝘪𝘯-𝘋𝘢𝘴𝘩.𝘦𝘹𝘦")
+- [Video Tutorial Aplikasi](#video-tutorial-aplikasi "🆅🅸🅳🅴🅾")
 
 ## PROFIL
 
@@ -23,11 +23,15 @@
  
  <br>
  
+ 
 ## PROYEK APLIKASI
 
 1. APLIKASI PERMAINAN
    - [Aplikasi](/apk/)
+
+
 <br>
+
 ## VIDEO TUTORIAL APLIKASI
 
 
